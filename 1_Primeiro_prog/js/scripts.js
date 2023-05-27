@@ -24,3 +24,8 @@ var nomeCompleto = nome + " " + sobrenome;
 console.log(nome);
 console.log(typeof nome);
 console.log(nomeCompleto);
+
+const espaco = 200;
+const tempo = 120;
+const velocidadeMedia = (espaco / tempo);
+console.log(velocidadeMedia);
